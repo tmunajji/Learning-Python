@@ -54,4 +54,14 @@ print("Non-String as String Using %s")
 testlist = [1,3,5]
 print("Print list: %s" % testlist)
 
+# Find Length: len(string var)
 
+# Find index: stringvar.index("character")
+
+# Find how many of a character: stringvar.count("character")
+
+# Print Certain Characters using index: stringvar[2:7] - 2 inclusive, 7 exclusive
+
+# Print certain characters using index skip counting: stringvar[3:7:2] - characters from 3 - 7 skip counting by 2 indexes [start:stop:step]
+
+#
