@@ -64,4 +64,4 @@ print("Print list: %s" % testlist)
 
 # Print certain characters using index skip counting: stringvar[3:7:2] - characters from 3 - 7 skip counting by 2 indexes [start:stop:step]
 
-#
+#ASDNKLASNDLKJASNJ
